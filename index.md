@@ -11,11 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Krasvi's First CS193 Homework
-
-- I like how the ppts are very fun and understandable
-- I love how I can learn alot of things that are important but don't really have a course.
-
+# Header 1
 ## Header 2 
 ### Header 3
 
